@@ -4,9 +4,7 @@
 
 ### Introduction
 
- As per the data of 2019, the number of Intoxication Deaths has significantly increased in the first half of 2019 and is projected to exceed the total number of deaths in 2018. It is clear that the situation is exacerbating and immediate informed actions are required.
- 
-Our projects asks the following questions and explores the data with Python using Pandas, Seaborn, NumPy, and Plotly libraries.
+These exercises are a part of BUDT 758X: Data Processing and Analysis in Python class, at MS in Information Systems Program at University of Maryland. 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
